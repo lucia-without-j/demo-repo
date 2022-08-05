@@ -1,3 +1,3 @@
 # NASLOV
 
-Some text.
+Some text
